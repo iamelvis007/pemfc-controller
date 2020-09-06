@@ -13,5 +13,7 @@ Material: Arduino UNO
           Jumper wires
 Tools needed:
           Laptop with Arduino IDE
-          
          
+Set up the arduino as shown in the image below
+
+![](circuit%20(1).png)
